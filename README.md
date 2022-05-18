@@ -5,6 +5,8 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrglaydson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 ##### Você pode me contatar com os links abaixo:
 
 <div>  
@@ -38,7 +40,6 @@
  
 
 <!--
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 **mrglaydson/mrglaydson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
