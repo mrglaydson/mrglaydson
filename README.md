@@ -2,7 +2,7 @@
 
 <div align="center" style="display: flex;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mrglaydson&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>	  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrglaydson&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrglaydson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##### Você pode me contatar com os links abaixo:
